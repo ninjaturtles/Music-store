@@ -1,0 +1,80 @@
+1,01,blank space,100
+2,01,style,100
+3,01,shake it off,100
+4,01,bad blood,100
+5,01,wildest dreams,100
+6,01,clean,100
+7,01,this love,100
+8,01,out of the woods,100
+9,02,night,101
+10,02,blab,101
+11,02,sweet,101
+12,02,hello,101
+13,02,not now,101
+14,02,come back,101
+15,02,why,101
+16,02,let me,101
+17,04,marshall matters,102
+18,04,the way you lie,102
+19,04,rap god,102
+20,04,love yourself,102
+21,04,not afraid,102
+22,04,stan,102
+23,04,mockingbird,102
+24,04,without me,102
+25,05,cold night,103
+26,05,take me,103
+27,05,ill never say,103
+28,05,why,103
+29,05,hold on,103
+30,05,girlfirend,103
+31,05,hush hush,103
+32,05,summer,103
+33,10,sexyback,104
+34,10,TKO,104
+35,10,true colors,104
+36,10,cry me a river,104
+37,10,suit and tie,104
+38,10,mirrors,104
+39,10,senorita,104
+40,10,not a bad thing,104
+41,13,who am I ,105
+42,13,kush ups,105
+43,13,aint no fun,105
+44,13,lodi dodi,105
+45,13,bitch please,105
+46,13,that good,105
+47,13,sexual eruption,105
+48,13,vato,105
+49,15,Hello,106
+50,15,All I Ask,106
+51,15,rolling in the deep,106
+52,15,send my love,106
+53,15,set fire,106
+54,15,someone like you,106
+55,15,skyfall,106
+56,15,water under,106
+57,03,starboy,107
+58,03,reminder,107
+59,03,earned it,107
+60,03,love me harder,107
+61,03,the hills,107
+62,03,cant fee my face,107
+63,03,often,107
+64,03,wicked,107
+65,17,aint your mama,108
+66,17,on the floor,108
+67,17,papi,108
+68,17,dance again,108
+69,17,im into you,108
+70,17,booty,108
+71,17,lets get loud,108
+72,17,im real,108
+73,01,Mine,110
+74,01,sparks fly,110
+75,01,back to december,110
+76,01,speak now,110
+77,01,mean,110
+78,01,dear john,110
+79,01,enchanted,110
+80,01,haunted,110

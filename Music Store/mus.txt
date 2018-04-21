@@ -1,0 +1,20 @@
+01,Taylor Swift
+02,Katy Perry
+03,The Weeknd
+04,Eminem
+05,Avril Lavigne
+06,Nick Jonas
+07,50 cent
+08,Selena Gomez
+09,2pac
+10,Justin Timberlake
+11,Justin Beiber
+12,Drake
+13,Snoop Dog
+14,Ariana
+15,Adele
+16,Bruce Springsteen
+17,Jennifer Lopez
+18,Michael Jackson
+19,Bruno Mars
+20,Sia
